@@ -4,7 +4,7 @@
 
 	<groupId>com.tkirsch</groupId>
 	<artifactId>tkirsch-simple-quickstart-archetype</artifactId>
-	<version>1.0.0</version>
+	<version>1.0.1-SNAPSHOT</version>
 	<packaging>maven-archetype</packaging>
 
 	<name>tkirsch-simple-quickstart-archetype</name>
@@ -54,7 +54,7 @@
 
 	<scm>
 		<developerConnection>scm:git:https://github.com/tkirsch/tkirsch-simple-quickstart-archetype.git</developerConnection>
-		<tag>tkirsch-simple-quickstart-archetype-1.0.0</tag>
+		<tag>HEAD</tag>
 	</scm>
 
 </project>
