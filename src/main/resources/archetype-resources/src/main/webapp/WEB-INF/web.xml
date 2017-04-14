@@ -7,7 +7,7 @@
 	xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd"
 	version="3.0">
 
-	<display-name>tkirsch_simple_quickstart-quickstart</display-name>
+	<display-name>${package}-quickstart</display-name>
 
 	<context-param>
 		<param-name>contextConfigLocation</param-name>
